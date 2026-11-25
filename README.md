@@ -1,21 +1,21 @@
 # LVskripts 😀
-LVskripts ir Javascript ar latviešu valodas sintaksi
-# Instalācija
+LVskripts is JavaScript with Latvian syntax
+# Installation
     npm install lvskripts -global
-# Izmantošana
-LVskripts koda izpildīšana:
+# Usage
+Running LVskripts code:
        
     lvskripts -run tests.lv
-LVskripts transpilēšana uz Javascript:
+Transpiling LVskripts to JavaScript:
        
     lvskripts -compile tests.lv
-Javascript transpilēšana uz LVskripts
+Transpiling JavaScript to LVskripts:
     
     lvskripts -reverse tests.js
-# Sintakse
-Skatīt *sintakse.md* priekš visiem rezervētajiem vārdiem 
-# Piemērs
-Javascript
+# Syntax
+See *sintakse.md* for all reserved keywords
+# Example
+JavaScript
 ```
 const cipari = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
@@ -35,5 +35,5 @@ priekš (mainīgais i no cipari) {
     }
 }
 ```
-# Visual studio paplašinājums
-Instalē 'LVskripts' paplašinājumu no VS marketplace, priekš sintakses iezīmēšanas un koda automātiskās pabeigšanas.
+# Visual Studio Extension
+Install the 'LVskripts' extension from the VS Marketplace for syntax highlighting and code autocompletion.
