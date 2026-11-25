@@ -74,5 +74,5 @@ See [**`sintakse.md`**](./sintakse.md) for the complete list of reserved keyword
 ## 🧩 Visual Studio Code Extension
 
 Install the **LVskripts** extension from the **VS Marketplace** to enable:
-- 🎨 Syntax highlighting
-- ⚡ Code autocompletion
+-  Syntax highlighting
+-  Code autocompletion
